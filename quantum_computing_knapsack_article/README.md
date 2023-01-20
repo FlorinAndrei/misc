@@ -1,6 +1,6 @@
 This is the companion code to my article published in Towards Data Science:
 
-https://towardsdatascience.com/quantum-computing-for-optimization-problems-solving-the-knapsack-problem-274f01e78ed8
+[Quantum Computing for Optimization Problems — Solving the Knapsack Problem](https://towardsdatascience.com/quantum-computing-for-optimization-problems-solving-the-knapsack-problem-274f01e78ed8)
 
 The main notebook with the entire code used in the article is [ks-comparison.ipynb](./ks-comparison.ipynb).
 
